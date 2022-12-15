@@ -18,5 +18,5 @@ Horacio Gutierrez</a></h1
 
 - 📫 How to reach me **horacio.estevez@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/HoracioGutierrez/HoracioGutierrez/blob/master/Resume.pdf" target="blank">Resume</a>
 <br/>
