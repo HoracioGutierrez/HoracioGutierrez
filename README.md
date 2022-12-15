@@ -12,7 +12,7 @@ Horacio Gutierrez</a></h1
 
 - 🌱 I’m currently learning Computer Science online at <a href="https://cs50.harvard.edu/x/2022/syllabus/" target="blank">Harvard CS50</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I give webinars and workshops on Reactjs and Javascript, sometimes on Youtube
 
 - 💬 Ask me about **Reactjs & Javascript**
 
