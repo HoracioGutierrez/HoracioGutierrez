@@ -24,23 +24,6 @@ function App() {
     })
   }
 
-  /* const handleLeave = (e) => {
-    const paths = [...e.target.querySelectorAll("path")]
-    const pathsClasses = paths.map(path => path.classList[0])
-    const pathsClassesStringSelectors = pathsClasses.map(pathClass => `.${pathClass}`)
-    const pathsClassesString = pathsClassesStringSelectors.join(",")
-
-    anime({
-      targets: pathsClassesString,
-      strokeDashoffset: [0, anime.setDashoffset],
-      easing: 'cubicBezier(.5, .05, .1, .3)',
-      duration: 20000,
-      delay: function(el, i) { return i * 250 },
-      loop: false,
-      direction:"forwards"
-    })
-  } */
-
   return (
     <div className="container">
       <div className="card">
