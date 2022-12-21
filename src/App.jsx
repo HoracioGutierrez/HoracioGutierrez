@@ -3,10 +3,6 @@ import { useEffect } from "react"
 
 function App() {
 
-  useEffect(()=>{
-   
-  })
-
   const handleHover = (e) => {
     const paths = [...e.target.querySelectorAll("path")]
     const pathsClasses = paths.map(path => path.classList[0])
