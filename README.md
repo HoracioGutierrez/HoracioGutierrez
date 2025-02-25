@@ -9,7 +9,7 @@ Horacio Gutierrez</a></h1>
 
 
 
-- 🔭 I’m currently working in <a href="https://www.coderhouse.com/" target="blank">Coderhouse</a> and <a href="https://practicum.com/" target="blank">Practicum by Yandex</a>
+- 🔭 I’m currently working in <a href="https://www.coderhouse.com/" target="blank">Coderhouse</a> and <a href="https://practicum.com/" target="blank" style="text-decoration:line-through">Tripleten/Practicum by Yandex</a>
 
 - 💻 I code for a living and I love it and I also tutor and teach programming
 
