@@ -35,6 +35,6 @@ More projects at [horagutierrez.vercel.app](https://horagutierrez.vercel.app/tra
 
 ## Contact
 
-[Portfolio](https://horagutierrez.vercel.app) · [LinkedIn](https://www.linkedin.com/in/horacioegutierrez/) · [X](https://twitter.com/horagutierrez) · [Instagram](https://instagram.com/horagutierrez) · [Email](mailto:horacio.estevez@gmail.com) · [Résumé](https://github.com/HoracioGutierrez/HoracioGutierrez/blob/master/Resume.pdf)
+[Portfolio](https://horagutierrez.vercel.app) · [LinkedIn](https://www.linkedin.com/in/horacioegutierrez/) · [X](https://twitter.com/horagutierrez) · [Instagram](https://instagram.com/horagutierrez) · [Email](mailto:horacio.estevez@gmail.com) · [CV](https://github.com/HoracioGutierrez/HoracioGutierrez/blob/master/CV.pdf)
 
 English C1 · Spanish native
